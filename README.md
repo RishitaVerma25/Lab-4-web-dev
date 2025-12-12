@@ -24,13 +24,3 @@ It is easy to run this code in any browser:
 4.  Copy the entire content of your final quiz.js file.
 5.  Paste the code directly into the Console command line and hit *Enter*.
 6.  The quiz will start immediately with the first question pop-up.
-
----
-
-# 2. Final Submission Checklist
-
-Here are the final actions you need to take to complete the assignment:
-
-1.  *Save Your Files:* Ensure your final code is saved as quiz.js and the content above is saved as README.md in the same project folder.
-2.  *Commit to GitHub:* Push both your quiz.js file and your README.md file to your chosen GitHub repository.
-3.  *Submit the Link:* Share the URL of your GitHub repository with your faculty for grading.
